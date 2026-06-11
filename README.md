@@ -1,5 +1,6 @@
 # Human-peripheral-lymphocyte-glycoproteome-atlas
 Prefix	File Name	Description
+
 【1】	ProteinOverlapAnalysis	This R script compares two columns of data across multiple sheets in an Excel file. It calculates overlaps, unique elements, and overlap percentages for each sheet, then outputs summary statistics and detailed lists into a new workbook.
 
 【2】	GlycoSiteStructure	This R script analyzes the secondary structure preference of glycosylation sites. It reads an Excel file containing protein and site information, predicts secondary structures (helix, sheet, coil) of human proteome sequences using the PredictHEC function, then maps glycosylation sites onto these structures. It calculates the distribution and enrichment ratios of glycosylation sites across different secondary structure types compared to both the full proteome and input protein backgrounds, and exports the results to an Excel file.
