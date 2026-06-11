@@ -1,5 +1,4 @@
 # Human-peripheral-lymphocyte-glycoproteome-atlas
-Prefix	File Name	Description
 
 【1】	ProteinOverlapAnalysis	This R script compares two columns of data across multiple sheets in an Excel file. It calculates overlaps, unique elements, and overlap percentages for each sheet, then outputs summary statistics and detailed lists into a new workbook.
 
